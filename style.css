@@ -2,12 +2,14 @@ html{
     cursor: all-scroll;
 }
 body{
-    font-size: 100px;
+    
+    font-size: 90px;
     font-family: arial;
     color: #fff;
     background-image: url('backround.jpg');
     background-size: cover;
     padding: 200px 450px;
+    text-align: center;
 
 
 }
