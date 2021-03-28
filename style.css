@@ -1,0 +1,12 @@
+html{
+    cursor: all-scroll;
+}
+body{
+    font-size: 100px;
+    font-family: arial;
+    color: #000;
+    background-image: url('backround.jpg');
+    background-size: cover;
+
+
+}
