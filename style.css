@@ -3,6 +3,8 @@
 }
 .body{
     
+    width: 1000px;
+    min-height: 200px;
     font-size: 90px;
     font-family: arial;
     color: #fff;
