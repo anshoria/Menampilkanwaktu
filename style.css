@@ -12,6 +12,11 @@
     background-size: cover;
     padding: 250px 500px;
     text-align: center;
+    height: 500px;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
 
 
 }
